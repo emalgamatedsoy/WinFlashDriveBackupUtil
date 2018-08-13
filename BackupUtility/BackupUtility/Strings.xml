@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- For second prototype -->
+<strings>
+	<OnMainForm>
+    
+  <!-- Labels -->
+    <OpenFldLabel> Select a folder to write to </OpenFldLabel>
+	  <FldToWriteButton>Open</FldToWriteButton>
+	  <PictureChkBox>Pictures</PictureChkBox>
+	  <VideoChkBox>Videos</VideoChkBox>
+	  <DocumentChkBox>Documents</DocumentChkBox>
+	  <MusicChkBox>Music</MusicChkBox>
+    <SelectDriveLabel>Select Drive to Backup</SelectDriveLabel>
+    <backupbutton>Backup</backupbutton>
+  
+	</OnMainForm>
+
+</strings>

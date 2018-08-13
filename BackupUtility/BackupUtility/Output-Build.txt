@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: USBBackupUtility, Configuration: Debug Any CPU ------
+1>  USBBackupUtility -> C:\Users\Patrick\source\repos\BackupUtility\BackupUtility\bin\Debug\BackupUtility.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+Fri, Nov 10, 2017 3:28:11 PM
